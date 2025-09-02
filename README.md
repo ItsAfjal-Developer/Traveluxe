@@ -26,4 +26,8 @@ My Goal was to Design a Platform that Could Represent a Real Travel Company with
 Below is a Preview of **Traveluxe**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="Images/Screenshot.png" alt="Traveluxe" width="100%" />
+- **Dark Theme**
+<img src="assets/img/Screenshot1.png" alt="Traveluxe" width="100%" />
+
+- **Light Theme**
+<img src="assets/img/Screenshot.png" alt="Traveluxe" width="100%" />
