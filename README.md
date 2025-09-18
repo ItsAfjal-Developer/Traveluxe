@@ -5,7 +5,8 @@ this Project Focuses on Showcasing Travel Destinations in a Modern, Fast and Use
 
 ## Project Overview
 - Traveluxe is a Concept-Based Website I Built to Strengthen My Frontend Development Skills and Gain Real-Time Experience in Secure Deployment. 
-My Goal was to Design a Platform that Could Represent a Real Travel Company with Scalability, Security and Performance at its Core.
+My Goal was to Design a Platform that Could Represent a Real Travel Company with Scalability, Security
+and Performance at its Core.
 
 ## Tech Stack
 - **HTML | CSS | JavaScript | Swiper.js | ScrollReveal | Netlify**
@@ -23,7 +24,7 @@ My Goal was to Design a Platform that Could Represent a Real Travel Company with
 
 ## 📸Screenshots
 
-Below is a Preview of **Traveluxe**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
+Below is a Preview of **Traveluxe**, Showcasing the Layout and Styling implemented Using pure HTML, CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 - **Dark Theme**
