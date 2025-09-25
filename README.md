@@ -1,6 +1,6 @@
 # **Traveluxe**
 A Fully Responsive Travel Website Designed to Inspire Adventure Enthusiasts and Provide a Smooth, Engaging User Experience.
-With a Calm Blue & White Theme Representing Trust and Serenity, Combined with Interactive Animations , 
+With a Calm Blue & White Theme Representing Trust and Serenity, Combined with Interactive Animations, 
 this Project Focuses on Showcasing Travel Destinations in a Modern, Fast and User-Friendly Way. 
 
 ## Project Overview
