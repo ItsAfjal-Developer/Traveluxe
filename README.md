@@ -24,7 +24,7 @@ and Performance at its Core.
 
 ## 📸Screenshots
 
-Below is a Preview of **Traveluxe**, Showcasing the Layout and Styling implemented Using pure HTML, CSS and Javascript. 
+Below is a Preview of **Traveluxe** , Showcasing the Layout and Styling implemented Using pure HTML, CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 - **Dark Theme**
